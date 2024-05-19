@@ -1,4 +1,4 @@
-Here’s a step-by-step guide to demonstrate two examples of AI tools from each of the provided documents:
+So we'll demo some of the tools discussed in the second section
 
 ### Document 1: Best AI Tools by Hackr.io
 **1. ChatGPT**
