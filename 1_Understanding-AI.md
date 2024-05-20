@@ -35,9 +35,9 @@
 - **Each group presents their key insights and discussion points to the larger group.**
 - **Facilitator:** Summarize the main takeaways from each group and open the floor for any final questions or comments.
 
-### Additional Tips for Facilitators
-- Encourage participants to take notes during their group discussions.
-- Ensure each group has a spokesperson to present their findings.
-- Keep track of time to ensure each section of the workshop is covered within the 30-minute timeframe.
+### Additional Tips 
+-  take notes during their group discussions.
+- Nominate  a spokesperson to present their findings.
+- 
 
 This structure should help stimulate engaging and focused discussions on the content of the three AI reports.
