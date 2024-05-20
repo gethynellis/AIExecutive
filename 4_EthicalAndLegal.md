@@ -1,6 +1,6 @@
 ## Poll
 
-### Group 1: AI for Governance
+### Group 1: AI for Government
 1. **What are the most significant ways AI can improve public administration?**
 2. **How can AI be used to enhance transparency in government operations?**
 3. **What are some potential risks of using AI in policy-making?**
