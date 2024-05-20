@@ -1,4 +1,4 @@
-## Poll
+## Group Discussion
 
 ### Group 1: AI for Government
 1. **What are the most significant ways AI can improve public administration?**
@@ -24,4 +24,4 @@
 5. **How can data privacy and security be maintained in AI applications?**
 6. **What frameworks or best practices do you think are most effective for ensuring ethical AI development?**
 
-These questions will help guide the discussions and ensure that each group stays focused on their respective topics.
+
