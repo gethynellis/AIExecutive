@@ -8,7 +8,7 @@
 
 #### Group Discussions (20 minutes)
 
-**We will work in groupd of three**, each group will be assigned one of the reports. Each group will spend 10 minutes discussing their assigned report, followed by 10 minutes sharing insights with the larger group.
+**We will work in groups of three**, each group will be assigned one of the reports. Each group will spend 10 minutes discussing their assigned report, followed by 10 minutes sharing insights with the larger group.
 
 ##### Group 1: McKinsey Report Discussion (10 minutes)
 - **Questions:**
