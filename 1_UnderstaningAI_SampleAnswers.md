@@ -1,4 +1,4 @@
-Here are some sample ansers
+Here are some sample answers care of ChatGBT
 
 ### Group 1: McKinsey Report Discussion
 
