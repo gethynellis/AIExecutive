@@ -1,5 +1,7 @@
 ## Group Discussion
 
+You will be split into three groups; each group will be given a topic below. Some in the group should be scribe and be prepared to present the findings back to the class. You will spend 20 minutes discussing your allocated topic answering as a group the questions below. We will then debrief the exercise
+
 ### Group 1: AI for Government
 1. **What are the most significant ways AI can improve public administration?**
 2. **How can AI be used to enhance transparency in government operations?**
