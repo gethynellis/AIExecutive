@@ -27,7 +27,7 @@ You will work in three groups. Each group will focus on specific slides and pres
 **1. Calculating ROI:**
 - **Scenario Details:** A financial services company is implementing an AI-driven fraud detection system to reduce fraudulent transactions and associated losses.
 - **Task:** Develop a model to calculate the ROI of the AI fraud detection initiative, considering direct financial benefits (reduced fraud losses) and strategic advantages (enhanced security reputation).
-- **Output:** Create a presentation explaining the ROI calculation, including assumptions and potential challenges.
+- **Output:** Create a Report explaining the ROI calculation, including assumptions and potential challenges.
 
 
 
@@ -39,7 +39,7 @@ You will work in three groups. Each group will focus on specific slides and pres
 **1. Developing a Governance Model:**
 - **Scenario Details:** A healthcare provider is rolling out an AI-driven patient management system to improve patient care and operational efficiency.
 - **Task:** Design a robust AI governance model for the healthcare provider, including roles, responsibilities, data management guidelines, and compliance protocols.
-- **Output:** Create a flowchart or diagram that visually represents the governance model.
+- **Output:** Create a report that outlines the governance model.
 
 
 
