@@ -4,7 +4,7 @@
 To enhance understanding of strategic AI development, evaluating AI's impact, and advancing AI implementation to leadership through collaborative group activities.
 
 **Group Assignments:**
-You will work in three groups. Each group will focus on specific slides and present their findings and plans to the rest of the attendees.
+You will work in three groups. Each group will focus on areas and present their findings and plans to the rest of the attendees.
 
 
 ### Group 1: Strategic AI Development
